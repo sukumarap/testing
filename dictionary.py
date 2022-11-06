@@ -3,6 +3,8 @@ import functools
 
 #wooh
 
+#haahahahahha
+
 # a = {'1':2, '2':'edwin','5':4,'4':'vicky'}
 # print(a)
 # b = a['1']
