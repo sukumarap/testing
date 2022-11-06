@@ -1,6 +1,8 @@
 import functools
 #hii welcome sukumar
 
+#wooh
+
 # a = {'1':2, '2':'edwin','5':4,'4':'vicky'}
 # print(a)
 # b = a['1']
